@@ -16,7 +16,6 @@ This paper explains key HTML/CSS concepts that are essential for building modern
 - Common header meta tags  
 - Other important topics such as semantic HTML and CSS variables  
 
-Where helpful, diagrams and examples are included.
 
 ---
 
